@@ -1,0 +1,6 @@
+{
+  "name": "Telebirr",
+  "description": "Telebirr mobile money and financial services platform featuring balance overview, fund transfers, bill payments, and merchant services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
